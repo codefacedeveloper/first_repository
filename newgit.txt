@@ -1,0 +1,9 @@
+package com.java.add
+public class gokul{
+   public static void main(String[] args){
+        int a,b=3,c=2;
+        a=b+c;
+        System.out.println(a);
+}
+}
+
